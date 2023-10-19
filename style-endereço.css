@@ -1,0 +1,33 @@
+*{ font-family:  'Montserrat';
+padding: 0px;
+margin: 0px;
+box-sizing: 0px;}
+header { margin: 44px 0 125px 76px;}
+
+.link-header { font-weight: 400px;
+             font-size: 20px;
+             color: #989D9C;
+             line-height: normal;
+             cursor: pointer;
+             margin-right: 23px; }
+
+.button-header{ width: 130px;
+                border-radius: 23px;
+                background-color: rgba(102, 90, 225, 1);
+                text-transform: uppercase;
+                color: rgba(255, 255, 255, 1);
+                font-size: 24px;
+                cursor: pointer;
+                border: none;
+                line-height: normal;
+                width: 130px;
+                height: 41px;}
+            
+
+main {font-size: 25px;
+     font-style: normal;
+     font-weight: 900px;
+     line-height: normal;
+     color: rgba(81, 81, 81, 1);
+     text-align: center;
+     margin-top: 186px;}
